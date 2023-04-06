@@ -1,0 +1,4 @@
+data
+__pycache__
+alexia.jsonl
+scrapy_spiders/alexia.json
